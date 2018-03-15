@@ -1,4 +1,3 @@
-﻿  stdafx.cpp
-  MergeSort.cpp
-c:\users\jvanj\source\repos\mergesort\mergesort\mergesort.cpp(83): warning C4018: '<': incompatibilidade de signed/unsigned
+﻿  MergeSort.cpp
+c:\users\jvanj\source\repos\mergesort\mergesort\mergesort.cpp(82): warning C4018: '<': incompatibilidade de signed/unsigned
   MergeSort.vcxproj -> C:\Users\jvanj\source\repos\MergeSort\Debug\MergeSort.exe
